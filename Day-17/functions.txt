@@ -1,0 +1,18 @@
+functions:
+--function is block or reusable code used to perform a task
+--in fun inputs are given in the form of parametrs and arguments
+--we are using def keyword to create a function
+--Functions can accept parameters and can return a value using the return statement.
+Advantages of function:
+--code reusability(Write the code once and use it many times.)
+--easy maintaince(If you need to change some logic, you usually need to modify it only in one place.)
+--easy to debug(If something goes wrong, you can identify which function contains the problem.)
+--code optimization
+--Reduces Code Repetition(Functions avoid writing the same code again and again.)
+--Easy to Understand(A large program can be divided into smaller functions.)
+--Saves Time(Once a function is created, you can call it whenever needed.)
+--Improves Program Organization(Functions divide a big program into smaller, manageable parts)
+Types of arguments:
+--positional arugument
+--keyword argument
+--default argument
