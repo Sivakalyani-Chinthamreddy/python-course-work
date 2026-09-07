@@ -1,0 +1,33 @@
+*******7/8/26*********
+python operators
+1)Arithmetic operators(+,-,*,**(Exponentiation (Power)),/,//,%)
+Arithmetic operators are special symbols that perform basic mathematical operations such as addition, subtraction, multiplication, division, modulus, exponentiation, and floor division on numeric values.
+
+/ performs true division and returns a floating-point result.
+// performs floor division and returns the quotient rounded down to the nearest whole number.
+
+2)Comparison operator(<,>,<=,>=,==,!=)
+Comparison operators are operators that compare two values or expressions and return True if the comparison is true, otherwise they return False.
+
+= is the assignment operator. It assigns a value to a variable.
+== is the comparison operator. It checks whether two values are equal.
+
+3)assignment operator
+Assignment operators are used to assign values to variables. Python provides simple assignment (=) and compound assignment operators such as +=, -=, *=, /=, %=, **=, and //= that perform an operation and assign the result back to the variable.
+
+4)Logical operators
+Logical operators are used to combine or modify conditions. Python has three logical operators: and, or, and not. They return a Boolean value (True or False).
+
+and returns True only if all conditions are true.
+or returns True if at least one condition is true.
+not returns true if it is false and return false and it is true
+
+5)membership operators(in, not in)
+Membership operators in Python are used to test whether a value is present in a sequence or collection. The two membership operators are in and not in, and they return either True or False.
+in dictionary in true only for keys not for values
+
+6)identical operators(is ,not is)
+Identity operators in Python are used to compare the memory locations of two objects. The is operator returns True if both variables refer to the same object, while is not returns True if they refer to different objects.
+
+7)Bitwise operators(&,|,^,~,<<,>>)
+A bitwise operator is an operator that works directly on the binary (bit-level) representation of integers. Since computers store numbers as bits (0s and 1s), bitwise operators manipulate those bits one by one.
