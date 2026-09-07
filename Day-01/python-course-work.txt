@@ -1,0 +1,58 @@
+class1
+*****4/08/2026********
+
+Features of python:
+1)free and open sourse: python is free and it is open source
+
+2)interpreted language: python goes through line by line by interpreted. if any  error occurs in line one it stops there only it don't go to other lines
+
+3)High-Level Language – high-level language is a programming language that is easy for humans to read, write, and understand. It uses English-like syntax, is machine-independent, and requires a compiler or interpreter to translate it into machine code before execution. Examples include Python, Java, C++, and C#.
+
+4)Object-Oriented – Python supports object-oriented programming (classes, objects, inheritance, polymorphism) as well as procedural and functional programming.
+
+5)Cross-Platform – Python programs can run on Windows, macOS, Linux, and other operating systems with little or no modification.
+
+6)Free and Open Source – Python is freely available, and its source code can be modified and distributed.
+
+7)Large Standard Library – It includes many built-in modules for tasks such as file handling, networking, databases, regular expressions, and more.
+
+8)Dynamically Typed – You don't need to declare variable types explicitly; Python determines them at runtime.
+
+9)Extensive Third-Party Libraries – Python has a vast ecosystem of packages for web development, data science, machine learning, automation, game development, and more.
+
+10)Automatic Memory Management – Python handles memory allocation and garbage collection automatically.Python provides automatic memory management, which means it automatically allocates memory for objects when they are created and automatically frees memory when the objects are no longer in use. This is done using Python's Garbage Collector, so programmers don't need to manage memory manually.
+
+11)Extensible and Embeddable – Python can be extended with code written in languages like C/C++, and it can also be embedded into other applications.
+
+12)Supports Rapid Development – Its concise syntax and rich libraries help developers build applications quickly.
+
+Automatic Memory Management:
+stack: 
+static: what ever the data or input given are sore in static memory 
+heat memory: what ever the output given by system are store in heat memory
+
+
+procedural  oriented language:
+it depends on procedures like checking of even number and checking of prime number are procedural language why because it dint depend on users
+
+object oriented language:
+depends on object or user like if Instagram it requires users to create account or LinkedIn requires a user 
+
+class: it is a blueprint combination of attributes and methods
+object: instance of class(the people who are using blueprint or class)
+encapsulation:the process of binding and providing security to data
+inheritance: we are acquiring properties from parent to child class
+polimorphisam: same action done in different behaviours
+abstarction: hiding the complexity
+
+
+
+
+
+
+
+
+
+
+
+
