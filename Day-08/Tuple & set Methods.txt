@@ -1,0 +1,52 @@
+*********12-08-2026*************
+Tuple:
+--tuple is immutable, order, fixed size, heterogeneous
+--if we give only one value to a tuple it will take it as a int to convert them into tuple we need to add , after element(1,)
+--packing and unpacking
+Tuple methods:
+Tuple operations:
+--concatenation
+--reptation
+--indexing
+--slicing
+--membership
+--max()
+--min()
+--sorted()
+--sum()
+--len()
+--.count()
+--.index()
+--all()
+--any()
+--Nested 
+--if we have any mutable types we can perform add and remove operations on mutable types but not in tuple
+
+Set:
+--set is immutable, unordered, no duplicates means only unique values, and heterogynous
+--set only allow only immutable types
+Set operations:
+--membership
+--union(it will remove of reptation elements or duplicate
+--intersection(only common elements)
+--difference(it will give only common elements)
+--symmetric(it will remove common elements and give remaining elements)
+if any thig return in child note if it have in parent 
+--subset({}<=a)
+--superset(a>={})(
+--a.isdisjoint(b)(if it have common elements it will give true if not it will give false)
+--sorted(a)(it will give in ascending order
+--max(a)
+--min()
+--len()
+--sum()
+--any()
+--all()
+--copy
+--.add()(is used to add single element)
+--.update({})(is used to add multiple elements)
+--.pop() (will remove any element in set)
+--.remove(will remove particular element in set if we try remove same eleemnet it raise error)
+--.discard(it will remove particular element if  we try to remove any element it can again it can hadle error)
+ 
+
