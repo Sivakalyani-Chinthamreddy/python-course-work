@@ -1,0 +1,42 @@
+******5-8-26*****
+TOKENS
+token is unit of a program
+
+tokens can be classified as:
+1)identifier:ide is name of a class,name of a variable,or name of a function and modules
+
+rules for identifier:
+1.contains uppercase,lowercase,and _,digits
+2.no special character(space is also a character)
+3.ide can start with upper case,lowercase and _
+4.key words are not allowed
+4.python is a case sensitive
+
+2)literals: literals are values like 10, name
+A literal in Python is a fixed value written directly in the program's source code. Examples include numbers (10), strings ("Hello"), booleans (True), lists ([1, 2, 3]), dictionaries ({"a": 1}), and None.
+
+3)keywords: 
+*key words are built in functions
+*Keywords are reserved words in Python that have predefined meanings and are used to define the language's syntax. They cannot be used as identifiers such as variable, function, or class names.
+*In python 35 key words are there the keywords are
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+4)operators:+,=,%
+
+5)punctuators:{,),",' these are all punctuators
+
+swapping of a number
+a=10
+b=26
+a,b=b,a
+
+
+
+
+
+
+
+
+
+
+
