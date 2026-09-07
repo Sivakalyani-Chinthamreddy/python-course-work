@@ -1,0 +1,39 @@
+******8-8-26******
+input formatting :
+--we need to use input()for string
+--we need to use int(input()) for integer
+--we need to use float(input())for float value
+split:
+split is used to generate a space b/w two characters
+--split is default function for list
+--for tuple we are using tuple(input()).split()
+--for set we are using set(input()).split
+map:
+--map is used to convert string to int, float
+--firstly map converts to object reference to convert from object reference to int or float we need to pass two parameters(data type(int, float)) and new value 
+--syntax for list: list(map(int, input()),tuple(map(float, input())
+eval:
+--eval function is used to evaluate the value what type of data
+--we need give correct input value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+need to check:
+packing and unpacking
