@@ -1,0 +1,28 @@
+********13-08-2026*********
+Dictionary:
+--dictionary is mutable
+--dict is ordered
+--dict is heterogeneous 2 for values it allows all where as for keys it only allowed immutable data types
+--dict is unique for keys whereas for values it is dynamic size
+operations:
+--membership: it only works for only keys not for values
+Methods:
+--to access elements from the dict we have direct method called data(keys) are using keys
+--.get()is used  accessing values with keys to handle error
+--if we want add any key value we can add directly
+--if we want to add multiple key values we can add by using .update({})
+--to delete last item we are using .popitem()
+--to delete particular key value we can use .pop(key)
+--we can also use del to delete specific key like del data[key]
+--we use clear to delete all key value pairs
+--we cant change key
+--to access keys we are using .keys()
+--to access values we are using .values()
+--to access items we are using .items
+--len()
+--max()
+--min()
+sorted()
+--.copy
+--.setdeafult is used to set a default value to key if  it not there in items
+--dict.fromkeys([])is use dto set same value for all keys
