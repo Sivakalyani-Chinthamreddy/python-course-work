@@ -1,0 +1,25 @@
+OOPs means object-oriented programming language
+--oop is a progamming paradigm where we organise the code with help of classes and objects
+--with help of opp we can make code resuable,secure,oragnise,and esy to maintain
+--opps have four main concepts those are encapsulation,inheritence,polymorphisam and abstarction
+----------why we need OOPs insted of proceduarl programming-----------
+--if code depends on users insted of procedures
+--if we want inter denpendency
+--if the code needs to have objects and classes
+--class is blueprint where it consits of attributes and modules
+--object is a instence of a class(where objects are using the blueprint)
+--encasulation menas data protection and controlled access
+--inheritance means process of craeting child class and importing properties from parent classes
+--inheritance have 5 types(single inheritance,multiple inheritance,multilevel inheritance,Hierarchical Inheritance,hybrid inheritance)
+--polymorphism means many methods It means the same method or operation can behave differently depending on the object or situation.
+--abstaction means hiding the complexity
+---------class & objects------------
+--attributes are 2 type class attribute and instance attributr
+--class attribute are defined inside the class function 
+--instance attribute are defined by objects"commonly used word is self"
+--methods are 3 types
+--class method instance method and static method
+--class method is defined inside the class and it is mentiond under the using a decorator claeed "@classmethod" and "commnoly used word is cls"
+--instance method is defined on objects
+--static method is helper method and is defined under the decorator"@static method"
+
