@@ -1,0 +1,25 @@
+******6-8-26*********
+data types
+1)numeric data types(int,float,complex(imaginary value)
+2)sequence data types:
+*string( it is a collection characters enclosed b/w single or double quotes immutable means we cant change declaration with in its same object location or reference
+*list(it is collection of elements enclosed b/w a square braces and it is mutabal it is dynamical  sized changed and it is heterogenous and it have duplicates and it is ordered
+*tuple(collection of elements enclosed b?w/ parenthesis and it is immutable and orderd  it allows duplictes and it is orders and it id a heterogenous and it is fixed size
+3)Mapping datatypes:
+*set(collection of elememnts enclosed b?w a curly braces and is mutable and does't allow duplicated and it is dynamically sized an dit is hetorogineous and it is unorderd
+*dictionary(it is collection of  key value pairs enclosed b/w curly braces it is orderd and dynamical sized and mutabal heterogenous and it is orderd
+*frozen set(it is immutable and it is fixed size
+Boolean data type (true or false)
+none datatype (when u don't know the value we can use none data type)
+
+type conversions
+--integer can be converted into only float boll string and complex
+--float can be converted into string,bool,complex,int
+--complex can be converted into str,bool
+--string can be converted into int,float,complex,bool if string is in digits and sring can be conveted into list,tuple,set 
+--tuple can be converted into list, bool, string and set
+--list can be converted into tuple string bool set
+--set can be converted into tuple string bool list
+--dictionary can be converted into sring, bool,list,tuple ,set(only keys)
+--Boolean can be converted into int,float,complex and string
+
