@@ -1,0 +1,9 @@
+#polymorphisam (means many forms with same method)
+--Polymorphism means one method can have multiple forms or 
+different behaviors depending on the object.
+--Polymorphism is the ability of the same method or operation to perform 
+different behaviors depending on the object.
+
+#polymorphism has mainly 4 types:
+--Method overriding:Method overriding is a feature where a child class provides
+ a different implementation of a method that is already defined in its parent class.
