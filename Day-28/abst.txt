@@ -1,0 +1,13 @@
+#abstraction(menas hiding the complexity)
+--Abstraction means hiding unnecessary implementation details and
+ showing only the important information to the user.
+--for importing abstarcion we are using(from abc import ABC,abstarctmethod)
+--we are using @abstarcmethod for what we need to hide
+--we need to use same method name for evry child
+--
+
+
+--u need to create a  another child class(user) for a redbus
+--driver needs to see user details and how many seats booked
+--hiding the user details except name and ph number
+--
